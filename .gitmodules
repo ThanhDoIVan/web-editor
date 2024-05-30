@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/ThanhDoIVan/web-editor-client.git
+[submodule "server"]
+	path = server
+	url = https://github.com/ThanhDoIVan/web-editor-server.git
