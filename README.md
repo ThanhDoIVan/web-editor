@@ -1,7 +1,7 @@
 # Online web editor with version control integration
 ## Used Libraries
 * [Isomorphic Git](https://isomorphic-git.org/)
-* [MoncaoEditor](https://github.com/microsoft/monaco-editor)
+* [MonacoEditor](https://github.com/microsoft/monaco-editor)
 
 ## Implemented Capabilities
 1. IntelliSense
